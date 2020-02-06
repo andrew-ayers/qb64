@@ -11,10 +11,10 @@ Here you will find my various experiments, projects, and failures for QB64.
 
 ### What is QB64? ###
 
-For more information on QB64, visit http://www.qb64.net/
+For more information on QB64, visit https://www.qb64.org/
 
 * 100% compatible with Microsoft QBASIC/QuickBasic 4.5
-* Completely free and open-source (https://github.com/Galleondragon/qb64)
+* Completely free and open-source (https://github.com/QB64Team/qb64)
 * Generates native executables for Windows, MacOSX, Linux and Android
 * Has TCP/IP networking support built-in
 * True-Type font support
